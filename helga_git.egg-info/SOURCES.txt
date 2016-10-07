@@ -1,0 +1,8 @@
+helga_git.py
+setup.py
+helga_git.egg-info/PKG-INFO
+helga_git.egg-info/SOURCES.txt
+helga_git.egg-info/dependency_links.txt
+helga_git.egg-info/entry_points.txt
+helga_git.egg-info/top_level.txt
+helga_git.egg-info/zip-safe

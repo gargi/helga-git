@@ -1,0 +1,3 @@
+[helga_plugins]
+checkLGTM = helga_git:checkLGTM
+
